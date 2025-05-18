@@ -1,1 +1,3 @@
-# vermaashutosh777.github.io
+- Created index.html with sections for About, Projects, Research, Certifications, Skills, and Education.
+- This website serves as an online resume and portfolio to showcase my SAP and data science background.
+- Hosted via GitHub Pages at https://ashutoshverma.github.io
